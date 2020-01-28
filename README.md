@@ -1,6 +1,7 @@
 # The_Tower
 
 > [Bibliography](https://github.com/duprat/The_Tower/tree/master/Bibliographie)
+
 > [Contributing](#contrib)
 
 ### Contributing<a id="contrib"></a>
