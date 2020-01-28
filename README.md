@@ -4,6 +4,7 @@
 
 > [Contributing](#contrib)
 
+-----------------
 ### Contributing<a id="contrib"></a>
 
 1. Fork it
