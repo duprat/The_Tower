@@ -1,6 +1,6 @@
 # The_Tower
 
-> [Bibliography](https://github.com/duprat/The_Tower/tree/master/Bibliographie)
+> [Bibliography](https://github.com/duprat/The_Tower/tree/master/Bibliography)
 
 > [Contributing](#contrib)
 
